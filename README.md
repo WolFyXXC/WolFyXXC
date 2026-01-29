@@ -1,8 +1,4 @@
 <h1 align="center">👋 Привет, я Даниил | FullStack Developer</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WolFyXXC&color=blue&style=flat-square" alt="![IMG_8709](https://github.com/user-attachments/assets/d7f94dd8-03b6-4551-ad3b-988749ba8165)
-" />
   <a href="https://t.me/ferz_w">
     <img src="https://img.shields.io/badge/Telegram-@ferz_w-26A5E4?style=flat-square&logo=telegram" alt="Telegram" />
   </a>
