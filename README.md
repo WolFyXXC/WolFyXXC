@@ -1,4 +1,5 @@
 <h1 align="center">👋 Привет, я Даниил | FullStack Developer</h1>
+  <p align="center">
   <a href="https://t.me/ferz_w">
     <img src="https://img.shields.io/badge/Telegram-@ferz_w-26A5E4?style=flat-square&logo=telegram" alt="Telegram" />
   </a>
