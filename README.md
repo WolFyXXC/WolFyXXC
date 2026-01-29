@@ -77,6 +77,8 @@ FullStack Developer с 1.5-летним опытом разработки выс
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 Контакты
 
 <p align="center">
