@@ -65,6 +65,14 @@ FullStack Developer с 1.5-летним опытом разработки выс
   <img src="https://img.shields.io/badge/Data_Processing-4ECDC4?style=for-the-badge" alt="Data Processing" />
 </p>
 
+### **Принципы разработки**
+
+<p> <img src="https://img.shields.io/badge/KISS-FF9A3C?style=for-the-badge&logoColor=white" alt="KISS" /> <img src="https://img.shields.io/badge/YAGNI-06D6A0?style=for-the-badge&logoColor=white" alt="YAGNI" /> <img src="https://img.shields.io/badge/DRY-118AB2?style=for-the-badge&logoColor=white" alt="DRY" /> <img src="https://img.shields.io/badge/SOLID-EF476F?style=for-the-badge&logoColor=white" alt="SOLID" /> <img src="https://img.shields.io/badge/BDUF-073B4C?style=for-the-badge&logoColor=white" alt="BDUF" /> </p>
+
+## **Дополнительно**
+
+<p> <img src="https://img.shields.io/badge/Clean_Code-4CAF50?style=for-the-badge" alt="Clean Code" /> <img src="https://img.shields.io/badge/Design_Patterns-9C27B0?style=for-the-badge" alt="Design Patterns" /> <img src="https://img.shields.io/badge/TDD-3F51B5?style=for-the-badge" alt="TDD" /> </p>
+
 ---
 
 ## 📈 Основные компетенции
