@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square" alt="Profile views" />
   <a href="https://t.me/feee">
-    <img src="https://img.shields.io/badge/Telegram-@feee-26A5E4?style=flat-square&logo=telegram" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@ferz_w-26A5E4?style=flat-square&logo=telegram" alt="Telegram" />
   </a>
 </p>
 
@@ -77,7 +77,7 @@ FullStack Developer с 1.5-летним опытом разработки выс
 
 <p align="center">
   <a href="https://t.me/ferz_w">
-    <img src="https://img.shields.io/badge/Telegram-@feee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@ferz_w-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
