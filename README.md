@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square" alt="Profile views" />
-  <a href="https://t.me/feee">
+  <a href="https://t.me/ferz_w">
     <img src="https://img.shields.io/badge/Telegram-@ferz_w-26A5E4?style=flat-square&logo=telegram" alt="Telegram" />
   </a>
 </p>
