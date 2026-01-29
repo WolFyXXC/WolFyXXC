@@ -1,5 +1,14 @@
-<h1 align="center">👋 Привет, я Даниил | FullStack Developer</h1>
-  <p align="center">
+<h1 align="center">
+  🚀✨ Привет, меня зовут Даниил! ✨🚀
+</h1>
+
+<h3 align="center">
+  💻 FullStack Developer из Москвы 💻
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Люблю+чистый+код+и+CoffeeScript+☕;React+%7C+Node.js+%7C+TypeScript+🧑‍💻;Всегда+готов+к+новым+вызовам+🚀" alt="Typing SVG" />
+</p>
   <a href="https://t.me/ferz_w">
     <img src="https://img.shields.io/badge/Telegram-@ferz_w-26A5E4?style=flat-square&logo=telegram" alt="Telegram" />
   </a>
