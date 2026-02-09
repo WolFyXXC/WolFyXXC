@@ -71,7 +71,7 @@ FullStack Developer с 1.5-летним опытом разработки выс
 
 ## **Дополнительно**
 
-<p> <img src="https://img.shields.io/badge/Clean_Code-4CAF50?style=for-the-badge" alt="Clean Code" /> <img src="https://img.shields.io/badge/Design_Patterns-9C27B0?style=for-the-badge" alt="Design Patterns" /> <img src="https://img.shields.io/badge/TDD-3F51B5?style=for-the-badge" alt="TDD" /> </p>
+<p> <img src="https://img.shields.io/badge/Clean_Code-4CAF50?style=for-the-badge" alt="Clean Code" /> <img src="https://img.shields.io/badge/Design_Patterns-9C27B0?style=for-the-badge" alt="Design Patterns" /> <img src="https://img.shields.io/badge/TDD-3F51B5?style=for-the-badge" alt="TDD" /> <img src="https://img.shields.io/badge/Алгоритмы_и_структуры_данных-FF6B6B?style=for-the-badge" alt="Алгоритмы и структуры данных" /> </p>
 
 ---
 
